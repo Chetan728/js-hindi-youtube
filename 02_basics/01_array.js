@@ -33,6 +33,9 @@ console.log("B", myArr.slice(1,3)) // end not include
 console.log("c", myArr.splice(1,3)) // break in two array include end 
 console.log(myArr) 
 
+// to yaha hamne array ko smjha array m kitne bhi data type k element ho sakte h , array declaration dhekha ,
+// array methods dhekhe like push , pop , shift , unshift , slice , splice 
+
 
 
 
